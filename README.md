@@ -5,8 +5,6 @@
 ## 🔭 最近在做
 
 - **[hgmail](https://github.com/hong-a-debug/hgmail)**：基于 Cloudflare Workers 的全功能邮件系统，支持收发邮件、多用户、搜索分页、附件与转发、推送通知、自助找回密码、PWA 安装。
-- **[hg-chat.win](https://hg-chat.win)**：基于 Cloudflare 的在线聊天服务。
-
 ## 🌐 我的站点
 
 - **hg-chat.win** → [https://hg-chat.win](https://hg-chat.win)
