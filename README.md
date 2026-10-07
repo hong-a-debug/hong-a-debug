@@ -18,7 +18,7 @@
 
 ## 📫 联系我
 
-- B站：[@HongGuai](https://space.bilibili.com/394466602)
+- B站：[@hg红怪(https://space.bilibili.com/394466602)
 - GitHub：[@hong-a-debug](https://github.com/hong-a-debug)
 - 站点：[hg-chat.win](https://hg-chat.win)
 
